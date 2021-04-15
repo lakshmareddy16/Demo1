@@ -1,3 +1,4 @@
 #!/bin/bash
 echo "this is file4"
 echo "added source on git branch as feature1"
+echo "added new function for branch feature 2"
